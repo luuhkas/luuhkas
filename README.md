@@ -17,4 +17,4 @@ Python (pandas, scikit-learn) · R · SQL · PostgreSQL · C · Java · TypeScri
 
 **Contato**
 
-[LinkedIn](https://www.linkedin.com/in/lucas-maues-5239a63b3) · [ORCID](https://orcid.org/0009-0005-7617-0545) · lsmaues22@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lucas-maues) · [ORCID](https://orcid.org/0009-0005-7617-0545) · lsmaues22@gmail.com
