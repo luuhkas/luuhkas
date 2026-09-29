@@ -6,13 +6,14 @@ O que me empolga é o ciclo completo do dado: escrever scripts em Python ou R pa
 
 **Projetos**
 
+- **[hdhi-mortalidade-hospitalar](https://github.com/luuhkas/hdhi-mortalidade-hospitalar)**: limpeza de 15.757 internações reais corrompidas pelo Excel, data warehouse em PostgreSQL e modelo de predição de mortalidade (ROC-AUC 0,967)
 - **[jfm-manager](https://github.com/luuhkas/jfm-manager)**: aplicativo desktop de ponto e folha de pagamento com regras da CLT (Electron, React, TypeScript, SQLite, 13 testes)
 - **[Listas---Estrutura-de-Dados](https://github.com/luuhkas/Listas---Estrutura-de-Dados)**: estruturas de dados em C do zero, com matriz esparsa (246 testes) e árvore de diretórios com índice Trie
 - **[Fundamentos-De-Inteligencia-Artificial](https://github.com/luuhkas/Fundamentos-De-Inteligencia-Artificial)**: algoritmos de busca em IA
 
 **Ferramentas**
 
-Python · R · SQL · PostgreSQL · C · Java · TypeScript · Git
+Python (pandas, scikit-learn) · R · SQL · PostgreSQL · C · Java · TypeScript · Git
 
 **Contato**
 
